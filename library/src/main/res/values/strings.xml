@@ -1,0 +1,4 @@
+<resources>
+    <string name="w_filter_app_name">Library</string>
+    <string name="w_filter_icon">WFilterItemIcon</string>
+</resources>
